@@ -1,3 +1,3 @@
 # ESPProjects
 
-*Teste.ino = Sistema de registro de temperatura e humidade em uma telinha 👍*
+*Teste.ino = Sistema de exibição de temperatura e humidade local em uma telinha 👍*
